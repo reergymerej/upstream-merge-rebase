@@ -1,3 +1,5 @@
 This is the foo.
 
 It is unbelievably foo.
+
+Add some more foo (changes without conflicts).
