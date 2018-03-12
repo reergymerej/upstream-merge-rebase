@@ -4,4 +4,4 @@ Every app needs a readme, right?
 
 Add some content.
 
-Here is the footer.
+Here is the footer. >>> copyright 1999
